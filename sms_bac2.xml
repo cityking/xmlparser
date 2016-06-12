@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smss>
+<sms id="1">
+<adress>10080</adress>
+<body>hello0</body>
+<date>2010</date>
+</sms>
+<sms id="2">
+<adress>10081</adress>
+<body>hello1</body>
+<date>2011</date>
+</sms>
+<sms id="3">
+<adress>10082</adress>
+<body>hello2</body>
+<date>2012</date>
+</sms>
+<sms id="4">
+<adress>10083</adress>
+<body>hello3</body>
+<date>2013</date>
+</sms>
+<sms id="5">
+<adress>10084</adress>
+<body>hello4</body>
+<date>2014</date>
+</sms>
+</smss>
